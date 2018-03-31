@@ -21,6 +21,7 @@ get_header(); ?>
 		get_template_part( 'featured-content' );
 	}
 ?>
+<h2>Page Title</h2>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 
