@@ -31,6 +31,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+	<h2>Demo Test</h2>
 <div id="page" class="hfeed site">
 	<?php if ( get_header_image() ) : ?>
 	<div id="site-header">
