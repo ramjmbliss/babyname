@@ -12,7 +12,6 @@
 
 		</div><!-- #main -->
 
-		<div class="sec"></div>
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 
